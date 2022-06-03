@@ -4,7 +4,7 @@
 Back in 2018 when I coded this, all I knew about programming and python was from a mobile app. I decided this was going to be my first project. In 2019 I redid the program because from a StackOverflowPost I made someone told me about the existence of libraries and that I really did not need to code everything on my own. I publish both versions here as Old Program and BetterProgram.
 
 ## Old Program (2018)
-For the first, I only used the math library. I remember to spend days thinking on how could I represent the Tartaglia triangle following something simmilar I found on the internet and how to calculate the Combinations. Finally I succeded, it had some issues like not being able to calculate with variables that had an unknown value, but which I did not know how to solve on my own at that time. An example of a possible operation
+For the first, I only used the math library. I remember to spend days thinking on how could I represent the Tartaglia triangle following something simmilar I found on the internet and how to calculate the Combinations. Finally I succeded, it had some issues like not being able to calculate with variables that had an unknown value, but which I did not know how to solve on my own at that time. An example of a possible operation:
 
 $ (4 + 5)^3 $
 
