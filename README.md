@@ -1,4 +1,4 @@
-# PythonNewtonBinomialSolver
+# NewtonBinomialSolver
 ## Introduction
 Back in 2018 when I coded this, all I knew about programming and python was from a mobile app. I decided this was going to be my first project. In 2019 I redid the program because from a StackOverflowPost I made someone told me about the existence of libraries and that I really did not need to code everything on my own. I publish both versions here as Old Program and BetterProgram.
 
